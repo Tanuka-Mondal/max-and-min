@@ -20,5 +20,5 @@ while True:
         print("Invalid input")
         continue
 
-print("Maximum is", largest)
-print("Minimum is", smallest)
+print("Larger is", largest)
+print("Smaller is", smallest)
