@@ -7,7 +7,7 @@ smallest = None
 
 while True:
     try:
-        num = input("Enter a number: ")
+        num = input(" Please Enter your number: ")
         if num == 'done':
             break
         n = int(num)
